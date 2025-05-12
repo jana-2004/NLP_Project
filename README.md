@@ -23,5 +23,4 @@ This API provides mental health support by analyzing user messages (text or voic
 ### Installation Steps
 1. **Clone the Repository:**
    ```bash
-   git clone <your-repo-link>
-   cd <your-repo-folder>
+   git clone <(https://github.com/jana-2004/NLP_Project.git)>
